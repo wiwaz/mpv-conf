@@ -1,0 +1,11 @@
+/cache
+/screenshots
+/scripts
+/shaders
+/tests
+
+*.png
+*.jpg
+*.lua
+*.hook
+*.glsl
