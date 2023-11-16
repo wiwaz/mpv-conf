@@ -2,12 +2,3 @@
 /screenshots
 /scripts
 /shaders
-/tests
-
-*.png
-*.jpg
-*.mp4
-*.mkv
-*.lua
-*.hook
-*.glsl
