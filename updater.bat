@@ -1,4 +1,4 @@
-@echo OFF
+@echo off
 set scripts_dir=.\scripts\
 set shaders_dir=.\shaders\
 
